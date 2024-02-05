@@ -2,7 +2,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="[https://codewithsadee.github.io/grilli/](https://grilli-restaurant-eight.vercel.app/)"><strong>➥ Live Demo</strong></a>
+  <a href="https://grilli-restaurant-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
